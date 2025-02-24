@@ -86,7 +86,7 @@ header .navbar {
 /* home section styling */
 .home {
     display:  flex;
-    background-color: #111;
+    background-color: #222;
     height: 100vh;
     color: #fff;
     min-height: 500px;
